@@ -1,0 +1,7 @@
+# Ignorer le répertoire node_modules
+node_modules/
+# Ignore les fichiers et répertoires spécifiques
+#.env
+# Ignore les fichiers et répertoires spécifiques
+#cles/
+package-lock.json
